@@ -1,0 +1,14 @@
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.exe
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.deps.json
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.runtimeconfig.json
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.dll
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.pdb
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfoInputs.cache
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfo.cs
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.dll
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\refint\GerenciadorDeTarefas.dll
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.pdb
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.genruntimeconfig.cache
+D:\Projetos Larissa DIO\Portifolio\GerenciadorDeTarefas\obj\Debug\net8.0\ref\GerenciadorDeTarefas.dll
